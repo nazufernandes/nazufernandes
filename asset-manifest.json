@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/nazufernandes/static/js/main.ad0f4bb5.chunk.js",
+    "main.js.map": "/nazufernandes/static/js/main.ad0f4bb5.chunk.js.map",
+    "runtime-main.js": "/nazufernandes/static/js/runtime-main.722575c7.js",
+    "runtime-main.js.map": "/nazufernandes/static/js/runtime-main.722575c7.js.map",
+    "static/js/2.04b5d92e.chunk.js": "/nazufernandes/static/js/2.04b5d92e.chunk.js",
+    "static/js/2.04b5d92e.chunk.js.map": "/nazufernandes/static/js/2.04b5d92e.chunk.js.map",
+    "index.html": "/nazufernandes/index.html",
+    "static/js/2.04b5d92e.chunk.js.LICENSE.txt": "/nazufernandes/static/js/2.04b5d92e.chunk.js.LICENSE.txt",
+    "static/media/india.b508a68d.svg": "/nazufernandes/static/media/india.b508a68d.svg",
+    "static/media/opspl.4871745e.png": "/nazufernandes/static/media/opspl.4871745e.png",
+    "static/media/tetherfi.759bbfe2.png": "/nazufernandes/static/media/tetherfi.759bbfe2.png",
+    "static/media/user_icon.1a946496.jpg": "/nazufernandes/static/media/user_icon.1a946496.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.722575c7.js",
+    "static/js/2.04b5d92e.chunk.js",
+    "static/js/main.ad0f4bb5.chunk.js"
+  ]
+}
